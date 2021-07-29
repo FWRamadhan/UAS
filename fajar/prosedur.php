@@ -33,7 +33,7 @@
                 
 
                
-                4. Cetak Kartu UAS
+                
             </p>
             <p>2. Pelaksaanaan sidang Project Daring Tanggal :
                 a. 4 Agustus 2021 (kelas Reguler A)
@@ -66,6 +66,8 @@
                 2. Form Bimbingan Project yang sudah ditandatangani oleh pembimbing minimal 8 kali bimbingan dan dibuktikan dengan tangkapan layar (screenshot) ACC Pembimbing dari email atau peasn whatsapp.
                 <br>
                 3. Cetak KRS Semester Berjalan
+                <br>
+                4. Cetak Kartu UAS
 <br>
             </p>
         </div>
